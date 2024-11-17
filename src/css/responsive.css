@@ -1,0 +1,30 @@
+@media (max-width: 412px) {
+  main {
+    padding: 0 3rem;
+  }
+  
+  header {
+    margin-top: 8rem;
+  }
+
+  header > .image {
+    width: 6rem;
+  }
+
+  header > .title {
+    margin-top: 1rem;
+    font-size: 3.5rem;
+  }
+
+  header > .description {
+    width: 95%;
+  }
+
+  form {
+    margin-top: 10rem;
+  }
+
+  form > .form-description {
+    text-align: left;
+  }
+}
